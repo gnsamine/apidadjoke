@@ -15,7 +15,7 @@ Make sure you have Go installed on your system. You can download and install Go 
 1. Clone the repository to your local machine or download the source code as a ZIP file.
 
 ```bash
-git clone https://github.com/your-username/random-dad-joke-api.git
+git clone https://github.com/gnsamine/random-dad-joke-api.git
 ```
 
 2. Navigate to the project directory.
